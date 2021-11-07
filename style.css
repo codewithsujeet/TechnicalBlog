@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.primary-background {
+	background: linear-gradient(to bottom right, #00cc00 -33%, #ffff66 100%);
+}
+
+.banner-title {
+	color: red;
+}
+
+.clip-path {
+	clip-path: polygon(100% 0, 100% 100%, 84% 94%, 71% 98%, 55% 93%, 37% 99%, 18% 94%,
+		0 100%, 0 0);
+}
+
+th,td{
+	 text-align: left !important;
+}
+
+#edit-profile-title{
+	font-size: 25px;
+    font-family: monospace;
+}
+
+#modal-title{
+	margin-left: 100px;
+
+    font-size: 40px;
+    font-family: system-ui;
+}
